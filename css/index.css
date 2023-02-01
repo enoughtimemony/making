@@ -1,0 +1,30 @@
+.main-picutre {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 35px;
+}
+.picture-mari {
+  width: 400px;
+  height: 300px;
+}
+.log-in {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  align-items: center;
+}
+.username {
+  width: 500px;
+  height: 50px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  border: 1px solid;
+}
+.password {
+  width: 500px;
+  height: 50px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  border: 1px solid;
+}
