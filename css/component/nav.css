@@ -1,11 +1,11 @@
 .main-content {
   background-color: #f9f9fa;
-  padding: 10px;
+  padding: 5px;
 }
 .main-content__title {
   display: flex;
   justify-content: space-between;
   list-style: none;
   color: rgb(37, 223, 141);
-  padding: 10px;
+  padding: 5px;
 }

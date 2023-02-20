@@ -1,0 +1,16 @@
+.join-together-body {
+  height: 1000vh;
+}
+.join-box {
+  display: flex;
+  border: 1px solid;
+  width: 600px;
+  height: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  border-color: rgba(0, 0, 0, 0.3);
+  margin-top: 55px;
+}
+.join-box__submit {
+  text-decoration-line: underline;
+}

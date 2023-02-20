@@ -1,11 +1,12 @@
 .index-page__box {
   display: flex;
   border: 1px solid;
-  width: 800px;
-  height: 600px;
+  width: 600px;
+  height: 500px;
   margin-left: auto;
   margin-right: auto;
   border-color: rgba(0, 0, 0, 0.3);
+  margin-top: 50px;
 }
 .index-page__main {
   display: flex;
@@ -15,29 +16,34 @@
   margin-right: auto;
 }
 .main-picutre {
-  margin-top: 100px;
+  margin-top: 50px;
 }
 .index-mari {
-  width: 400px;
-  height: 300px;
+  width: 360px;
+  height: 270px;
   border: 1px solid;
   border-color: black;
+  margin-bottom: 20px;
 }
 .log-in {
   display: flex;
   flex-direction: column;
 }
 .username {
-  width: 300px;
+  width: 200px;
   height: 30px;
   margin-bottom: 10px;
   border-radius: 7px;
   border: 1px solid;
 }
 .password {
-  width: 300px;
+  width: 200px;
   height: 30px;
   margin-bottom: 10px;
   border-radius: 7px;
   border: 1px solid;
+}
+.different-type {
+  display: flex;
+  justify-content: space-between;
 }
