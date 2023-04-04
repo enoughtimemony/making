@@ -1,5 +1,7 @@
 .cats-main {
   border: 1px solid rgba(0, 0, 0, 0.3);
+  width: 100%;
+  height: 130vh;
 }
 .cats-list {
   display: grid;
