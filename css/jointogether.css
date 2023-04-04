@@ -10,6 +10,7 @@
   margin-right: auto;
   padding: 20px;
   border-color: rgba(0, 0, 0, 0.3);
+  background-color: #f9f9fa;
 }
 .join-box__step-total {
   display: flex;
